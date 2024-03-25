@@ -1,0 +1,3 @@
+/Users/chiaki_meow/Projects for CG/GAMES/GAMES101/pa0/build/Debug/CMakeFiles/Transformation.dir
+/Users/chiaki_meow/Projects for CG/GAMES/GAMES101/pa0/build/Debug/CMakeFiles/edit_cache.dir
+/Users/chiaki_meow/Projects for CG/GAMES/GAMES101/pa0/build/Debug/CMakeFiles/rebuild_cache.dir

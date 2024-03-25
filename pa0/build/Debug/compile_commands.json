@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/chiaki_meow/Projects for CG/GAMES/GAMES101/pa0/build/Debug",
+  "command": "/usr/bin/clang++ -I/opt/homebrew/Cellar/eigen/3.4.0_1/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/Transformation.dir/main.cpp.o -c \"/Users/chiaki_meow/Projects for CG/GAMES/GAMES101/pa0/main.cpp\"",
+  "file": "/Users/chiaki_meow/Projects for CG/GAMES/GAMES101/pa0/main.cpp",
+  "output": "CMakeFiles/Transformation.dir/main.cpp.o"
+}
+]

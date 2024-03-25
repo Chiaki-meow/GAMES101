@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/Users/chiaki_meow/Projects for CG/GAMES/GAMES101/PA6/build/Debug",
+  "command": "/usr/bin/clang++ -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/RayTracing.dir/main.cpp.o -c \"/Users/chiaki_meow/Projects for CG/GAMES/GAMES101/PA6/Assignment6/main.cpp\"",
+  "file": "/Users/chiaki_meow/Projects for CG/GAMES/GAMES101/PA6/Assignment6/main.cpp",
+  "output": "CMakeFiles/RayTracing.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/chiaki_meow/Projects for CG/GAMES/GAMES101/PA6/build/Debug",
+  "command": "/usr/bin/clang++ -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/RayTracing.dir/Vector.cpp.o -c \"/Users/chiaki_meow/Projects for CG/GAMES/GAMES101/PA6/Assignment6/Vector.cpp\"",
+  "file": "/Users/chiaki_meow/Projects for CG/GAMES/GAMES101/PA6/Assignment6/Vector.cpp",
+  "output": "CMakeFiles/RayTracing.dir/Vector.cpp.o"
+},
+{
+  "directory": "/Users/chiaki_meow/Projects for CG/GAMES/GAMES101/PA6/build/Debug",
+  "command": "/usr/bin/clang++ -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/RayTracing.dir/Scene.cpp.o -c \"/Users/chiaki_meow/Projects for CG/GAMES/GAMES101/PA6/Assignment6/Scene.cpp\"",
+  "file": "/Users/chiaki_meow/Projects for CG/GAMES/GAMES101/PA6/Assignment6/Scene.cpp",
+  "output": "CMakeFiles/RayTracing.dir/Scene.cpp.o"
+},
+{
+  "directory": "/Users/chiaki_meow/Projects for CG/GAMES/GAMES101/PA6/build/Debug",
+  "command": "/usr/bin/clang++ -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/RayTracing.dir/BVH.cpp.o -c \"/Users/chiaki_meow/Projects for CG/GAMES/GAMES101/PA6/Assignment6/BVH.cpp\"",
+  "file": "/Users/chiaki_meow/Projects for CG/GAMES/GAMES101/PA6/Assignment6/BVH.cpp",
+  "output": "CMakeFiles/RayTracing.dir/BVH.cpp.o"
+},
+{
+  "directory": "/Users/chiaki_meow/Projects for CG/GAMES/GAMES101/PA6/build/Debug",
+  "command": "/usr/bin/clang++ -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/RayTracing.dir/Renderer.cpp.o -c \"/Users/chiaki_meow/Projects for CG/GAMES/GAMES101/PA6/Assignment6/Renderer.cpp\"",
+  "file": "/Users/chiaki_meow/Projects for CG/GAMES/GAMES101/PA6/Assignment6/Renderer.cpp",
+  "output": "CMakeFiles/RayTracing.dir/Renderer.cpp.o"
+}
+]

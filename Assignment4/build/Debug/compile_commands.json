@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/chiaki_meow/Projects for CG/GAMES/GAMES101/Assignment4/build/Debug",
+  "command": "/usr/bin/clang++ -isystem /opt/homebrew/Cellar/opencv/4.8.1_1/include/opencv4 -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/BezierCurve.dir/main.cpp.o -c \"/Users/chiaki_meow/Projects for CG/GAMES/GAMES101/Assignment4/code/main.cpp\"",
+  "file": "/Users/chiaki_meow/Projects for CG/GAMES/GAMES101/Assignment4/code/main.cpp",
+  "output": "CMakeFiles/BezierCurve.dir/main.cpp.o"
+}
+]

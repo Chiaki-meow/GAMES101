@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/Users/chiaki_meow/Projects for CG/GAMES/GAMES101/Assignment5/build/Debug",
+  "command": "/usr/bin/clang++ -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Wall -Wextra -pedantic -Wshadow -Wreturn-type -fsanitize=undefined -o CMakeFiles/RayTracing.dir/main.cpp.o -c \"/Users/chiaki_meow/Projects for CG/GAMES/GAMES101/Assignment5/Code/main.cpp\"",
+  "file": "/Users/chiaki_meow/Projects for CG/GAMES/GAMES101/Assignment5/Code/main.cpp",
+  "output": "CMakeFiles/RayTracing.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/chiaki_meow/Projects for CG/GAMES/GAMES101/Assignment5/build/Debug",
+  "command": "/usr/bin/clang++ -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Wall -Wextra -pedantic -Wshadow -Wreturn-type -fsanitize=undefined -o CMakeFiles/RayTracing.dir/Scene.cpp.o -c \"/Users/chiaki_meow/Projects for CG/GAMES/GAMES101/Assignment5/Code/Scene.cpp\"",
+  "file": "/Users/chiaki_meow/Projects for CG/GAMES/GAMES101/Assignment5/Code/Scene.cpp",
+  "output": "CMakeFiles/RayTracing.dir/Scene.cpp.o"
+},
+{
+  "directory": "/Users/chiaki_meow/Projects for CG/GAMES/GAMES101/Assignment5/build/Debug",
+  "command": "/usr/bin/clang++ -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Wall -Wextra -pedantic -Wshadow -Wreturn-type -fsanitize=undefined -o CMakeFiles/RayTracing.dir/Renderer.cpp.o -c \"/Users/chiaki_meow/Projects for CG/GAMES/GAMES101/Assignment5/Code/Renderer.cpp\"",
+  "file": "/Users/chiaki_meow/Projects for CG/GAMES/GAMES101/Assignment5/Code/Renderer.cpp",
+  "output": "CMakeFiles/RayTracing.dir/Renderer.cpp.o"
+}
+]
